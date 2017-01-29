@@ -1,6 +1,6 @@
 # Minimal C++ Plugin for Unity3D
 
-[Christian Schladetsch](mailto:christian@twobulls.com) - TwoBulls
+Christian.Schladetsch@gmail.com
 
 This document will guide you through the minimal steps needed to write and use a C++ plugin from Unity3d.
 
